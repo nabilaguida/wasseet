@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "494264150703",
+    "project_id": "brikoola-ef2b4",
+    "storage_bucket": "brikoola-ef2b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494264150703:android:d1ed9e9f08f52b0ffac25a",
+        "android_client_info": {
+          "package_name": "com.example.brikoula"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494264150703-f9qq4gia3v2u2q01nlp6rnnahg3bg164.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.brikoula",
+            "certificate_hash": "f1ee60c4e27e612a39ffd4b25661b541e0409052"
+          }
+        },
+        {
+          "client_id": "494264150703-gq8kq7giraoagsqn35hs75dnt0k03ebh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuhBIZ62SwzSBneFKCywTe0_tGQ6bLv7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494264150703-gq8kq7giraoagsqn35hs75dnt0k03ebh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
